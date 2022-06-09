@@ -33,6 +33,7 @@ namespace Hw2
         public decimal GetTax()
         {
             return (Salary * Tax) / 100;
+
         }
 
        
